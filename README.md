@@ -12,7 +12,7 @@ Splinter itself is partially wrapped by *pytest-bdd-splinter*, a set of common S
 
 The common Steps defined in *pytest-bdd-splinter* are easily extended with your own Step definitions using direct calls to either Splinter or the Selenium Webdriver.
 
-### Next steps:
+### To Do:
 
 - migrate the tests from the virtual environment to a docker container
 - run tests against standard selenium grid docker containers
