@@ -17,6 +17,10 @@ The common Steps defined in *pytest-bdd-splinter* are then seamlessly extended w
 - migrate the tests from the virtual environment to a docker container
 - run tests against standard selenium grid docker containers
 - add support for Page Objects
+- extend Feature Scenarios
+- either:
+  - get `pytest-bdd-splinter` Steps to handle Scenario Outlines
+  - or revert to `pytest-bdd` and `splinter`
 
 ## MacOS Setup
 
